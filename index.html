@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyTools</title>
+    <link rel="stylesheet" href="css/index.css">
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playpen+Sans+Hebrew:wght@100..800&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <header>
+        <h1 class="animate__animated animate__fadeIn">My Tools</h1>
+    </header>
+
+    <nav>
+        <ul>
+          <li><a class="animate__animated animate__fadeIn" href="#inicio">Inicio</a></li>
+          <li><a class="animate__animated animate__fadeIn" href="#productos">Productos</a></li>
+          <li><a class="animate__animated animate__fadeIn" href="#reseñas">Reseñas</a></li>
+          <li><a class="animate__animated animate__fadeIn" href="#contacto">Contacto</a></li>
+        </ul>
+      </nav>
+
+    <main>
+        <section id="inicio">
+          <h2>Bienvenidos</h2>
+          <p>Descubre los mejores productos que tenemos para ti.</p>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/t_We2EWy5qo?si=4W9vSB0ye_bJhScQ" frameborder="0" allowfullscreen></iframe>
+        </section>
+    
+        <section id="productos">
+          <h2>Productos</h2>
+          <div class="productos-container">
+            <div class="card">
+              <img src="assets/setDestronillador.jpg" alt="Set destornillador">
+              <h3>Set Destornillador MAKITA</h3>
+              <p class="precio">$70.000</p>
+              <p>Set Destornillador, Juego de Puntas
+                Marca: Makita
+                Modelo: B-36186</p>
+            </div>
+            <div class="card">
+              <img src="assets/AmoladoraBOSCH.jpg" alt="AmoladoraBOSCH">
+              <h3>Amoladora BOSCH</h3>
+              <p class="precio">$253.800</p>
+              <p>GWS 180-LI inalámbrica (Solo Herramienta)</p>
+            </div>
+            <div class="card">
+              <img src="assets/TaladroBOSCH.jpg" alt="TaladroBOSCH">
+              <h3>Taladro Percutor Atornillador BOSCH</h3>
+              <p class="precio">$140.000</p>
+              <p>TALADRO PERCUTOR BOSCH GSB 13 RE PROFESSIONAL </p>
+            </div>
+          </div>
+        </section>
+    
+        <section id="reseñas">
+          <h2>Reseñas</h2>
+          <div class="reseñas-grid">
+            <div class="review">
+              <strong>@jose_garcia</strong><br>
+              Excelente producto y atención.
+            </div>
+            <div class="review">
+              <strong>@maria89</strong><br>
+              Muy satisfecho con la compra.
+            </div>
+            <div class="review">
+              <strong>@luis_tech</strong><br>
+              Lo recomiendo totalmente.
+            </div>
+            <div class="review">
+              <strong>@ana_luna</strong><br>  
+              Entrega rápida y producto de calidad.
+            </div>
+          </div>
+        </section>
+    
+        <section id="contacto">
+          <h2>Contacto</h2>
+          <form>
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="nombre" required>
+    
+            <label for="email">Correo Electrónico:</label>
+            <input type="email" id="email" name="email" required>
+    
+            <label for="mensaje">Mensaje:</label>
+            <textarea id="mensaje" name="mensaje" required></textarea>
+    
+            <button type="submit">Enviar</button>
+          </form>
+        </section>
+    </main> 
+    
+    <footer>
+        <p>&copy; 2025 Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
