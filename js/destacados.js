@@ -1,6 +1,6 @@
 const contenedor = document.getElementById("contenedor-productos");
 
-fetch("../db/products.json")
+fetch("db/products.json")
   .then(res => res.json())
   .then(data => {
     const primerosOcho = data.productos.slice(0, 8); // Mostrar solo los primeros 8
