@@ -35,7 +35,19 @@ body {
     background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
     text-align: center;
   }
+  #productos{
+    text-align: center;
+  }
+  #reseñas{
+    padding: 2rem;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
   
+  #formulario{
+    text-align: center;
+  }
+
   .productos-container {
     display: flex;
     flex-wrap: wrap;
@@ -45,6 +57,10 @@ body {
   }
   
   .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
     background-color: white;
     border: 1px solid #ddd;
     border-radius: 8px;
@@ -64,6 +80,22 @@ body {
     font-size: 1.2rem;
     font-weight: bold;
     margin-top: 0.5em;
+  }
+
+  .boton {
+    margin-top: auto;
+    padding: 10px 20px;
+    font-size: 14px;
+    color: #ffffff;
+    background-color: #e42e00;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  .boton:hover {
+    background-color: #91270c;
   }
   
   
@@ -111,6 +143,28 @@ body {
     cursor: pointer;
   }
   
+.reseñas-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+  padding: 1 2rem;
+}
+
+.review {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: left;
+  font-family: "Playpen Sans Hebrew", sans-serif;
+  transition: transform 0.2s ease;
+}
+
+.review:hover {
+  transform: scale(1.02);
+}
 
   @media (max-width: 600px) {
     nav ul {

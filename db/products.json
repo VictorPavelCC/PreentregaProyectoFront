@@ -1,0 +1,144 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Taladro eléctrico",
+      "precio": 45000,
+      "descripcion": "Taladro de 13mm, 600W, ideal para trabajos domésticos.",
+      "imagen": "https://arcencohogar.vtexassets.com/arquivos/ids/281584/1163820.jpg?v=637651630130530000"
+    },
+    {
+      "id": 2,
+      "nombre": "Martillo de carpintero",
+      "precio": 8500,
+      "descripcion": "Martillo con mango de fibra, cabeza de acero templado.",
+      "imagen": "https://www.abrafersrl.com.ar/wp-content/uploads/MCU18.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Destornillador plano",
+      "precio": 2300,
+      "descripcion": "Destornillador plano de 5 mm con mango ergonómico.",
+      "imagen": "https://urquizamotos.com.ar/83172-large_default/destornillador-plano-516-mango-grip-15cm-largo-truper.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Llave inglesa 10”",
+      "precio": 7800,
+      "descripcion": "Llave ajustable de acero forjado, resistente al óxido.",
+      "imagen": "https://acdn-us.mitiendanube.com/stores/001/767/541/products/llave-inglesa-6b5496e027a4dac43017181560501275-1024-1024.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Sierra manual para madera",
+      "precio": 6900,
+      "descripcion": "Sierra de mano de 20 pulgadas para cortes precisos.",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_679533-CBT83288337393_032025-O.webp"
+    },
+    {
+      "id": 6,
+      "nombre": "Caja organizadora de tornillos",
+      "precio": 4300,
+      "descripcion": "Caja con compartimentos y tornillos surtidos.",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_689358-MLA76009720813_042024-O.webp"
+    },
+    {
+      "id": 7,
+      "nombre": "Cinta métrica 5m",
+      "precio": 3200,
+      "descripcion": "Cinta retráctil con freno y carcasa reforzada.",
+      "imagen": "https://crossmaster.com.ar/wp-content/uploads/9932012-600x600.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Nivel burbuja 40cm",
+      "precio": 4600,
+      "descripcion": "Nivel con 3 burbujas para medidas horizontales.",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_665065-MLA50593590443_072022-O.webp"
+    },
+    {
+      "id": 9,
+      "nombre": "Pinza universal",
+      "precio": 5400,
+      "descripcion": "Pinza 8'' con mango antideslizante y corte lateral.",
+      "imagen": "https://laborherramientas.com.ar/Image/0/500_500-LAB00300.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Juego de mechas x5",
+      "precio": 3600,
+      "descripcion": "Mechas de acero para madera, 3 a 10 mm.",
+      "imagen": "https://bulplus.net/wp-content/uploads/2023/10/JUEGO-MECHA-compressed.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Cinta aisladora 10m",
+      "precio": 950,
+      "descripcion": "Cinta aislante negra para uso eléctrico.",
+      "imagen": "https://www.wurth.com.ar/img/productos/281-gr-cinta-aisladora-19mm-x-10mts-negra.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Interruptor de luz simple",
+      "precio": 1800,
+      "descripcion": "Interruptor blanco, embutido, uso doméstico.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dtWBahYSVhFUL4RUTocjWaYeoXxghbbv0w&s"
+    },
+    {
+      "id": 13,
+      "nombre": "Alargue eléctrico 3 tomas",
+      "precio": 5200,
+      "descripcion": "Alargue con térmica, 2 metros, triple toma.",
+      "imagen": "https://www.portalmayorista.com/images/stories/virtuemart/product/Zapatilla%20prolongador%20USB%203%20tomas%20(2).jpg"
+    },
+    {
+      "id": 14,
+      "nombre": "Guantes de trabajo",
+      "precio": 3100,
+      "descripcion": "Guantes de cuero sintético, uso general.",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_600520-MLA70077114408_062023-O.webp"
+    },
+    {
+      "id": 15,
+      "nombre": "Máscara facial de seguridad",
+      "precio": 2900,
+      "descripcion": "Máscara plástica transparente, ajuste elástico.",
+      "imagen": "https://www.llaquina.com.ar/thumb/000000FACFRA1715538292020-fravida_800x800.png"
+    },
+    {
+      "id": 16,
+      "nombre": "Silicona en cartucho",
+      "precio": 2500,
+      "descripcion": "Sellador transparente para uso general.",
+      "imagen": "https://www.segutecnica.com/images/0000000000010212496933m-silicona-neutra-segutecnica.png"
+    },
+    {
+      "id": 17,
+      "nombre": "Cinta doble faz 5m",
+      "precio": 2100,
+      "descripcion": "Cinta adhesiva fuerte, doble cara.",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_647152-MLA80554697786_112024-O.webp"
+    },
+    {
+      "id": 18,
+      "nombre": "Pintura esmalte 1L",
+      "precio": 7200,
+      "descripcion": "Pintura sintética blanca para interiores.",
+      "imagen": "https://pintureriasagitario.com.ar/wp-content/uploads/2025/03/ALBALUX-BLANCO-600x600-1.jpg"
+    },
+    {
+      "id": 19,
+      "nombre": "Brocha 2 pulgadas",
+      "precio": 1800,
+      "descripcion": "Brocha de cerdas suaves para pintura.",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_663374-MLA69336391544_052023-O.webp"
+    },
+    {
+      "id": 20,
+      "nombre": "Escalera de aluminio 5 escalones",
+      "precio": 25500,
+      "descripcion": "Escalera plegable, uso doméstico.",
+      "imagen": "https://arcencohogar.vtexassets.com/arquivos/ids/310887/1328369.jpg?v=637720624005270000"
+    }
+  ]
+}
